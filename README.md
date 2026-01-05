@@ -1,5 +1,3 @@
-NAMA      : RIZKY ZEHANS ONASSIS
-NIM       : 231011400496
 MATKUL    : PENGOLAHAN CITRA DIGITAL
 
 🐟 Sistem Klasifikasi Jenis Ikan Cupang (Betta Fish Classification)
